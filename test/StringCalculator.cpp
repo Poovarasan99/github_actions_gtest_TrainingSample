@@ -1,4 +1,3 @@
-#include "StringCalculator.h"
 #include <string>
 #include <vector>
 #include <numeric>
