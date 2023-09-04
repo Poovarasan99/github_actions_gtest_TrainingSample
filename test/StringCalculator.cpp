@@ -2,9 +2,9 @@
 #include <vector>
 #include <numeric>
 #include <regex>
-#include <gtest/gtest.cpp>
+#include <gtest/gtest.h>
 
-using namespace Testing;
+using namespace testing;
 using namespace std;
 
 class StringCalculator {
